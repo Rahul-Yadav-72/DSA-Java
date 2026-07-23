@@ -28,7 +28,7 @@ This repository contains my daily Java DSA practice for coding interviews and pl
 
 - ✅ Day 01 - Java Basics
 - ✅ Day 02 - Operators & Conditional Statements
-- ✅ Day 03 - Bit Manipulation
+- ✅ Day 03 - Conditional Statements & Bit Manipulation
 
 ## 🎯 Goal
 
