@@ -6,51 +6,52 @@ This repository documents my **daily Java programming and DSA practice**, where 
 
 ## 📚 Topics Covered
 
-- Java Basics
-- Operators
-- Conditional Statements
-- Loops
-- Pattern Printing
-- Functions & Methods
-- Arrays
-- Strings
-- Bit Manipulation
-- Recursion
-- Sorting Algorithms
-- Searching Algorithms
-- Object-Oriented Programming (OOP)
-- Linked List
-- Stack
-- Queue
-- Trees
-- Graphs
-- Dynamic Programming
+* Java Basics
+* Operators
+* Conditional Statements
+* Loops
+* Pattern Printing
+* Functions & Methods
+* Arrays
+* Strings
+* Bit Manipulation
+* Recursion
+* Sorting Algorithms
+* Searching Algorithms
+* Object-Oriented Programming (OOP)
+* Linked List
+* Stack
+* Queue
+* Trees
+* Graphs
+* Dynamic Programming
 
 ## 📅 Daily Progress
 
-| Day | Topic | Status |
-|------|--------------------------------------------|--------|
-| Day 01 | Java Basics | ✅ Completed |
-| Day 02 | Operators | ✅ Completed |
-| Day 03 | Conditional Statements | ✅ Completed |
-| Day 04 | Loops & Number Problems | ✅ Completed |
-| Day 05 | Pattern Printing | ✅ Completed |
+| Day    | Topic                       | Status      |
+| ------ | --------------------------- | ----------- |
+| Day 01 | Java Basics                 | ✅ Completed |
+| Day 02 | Operators                   | ✅ Completed |
+| Day 03 | Conditional Statements      | ✅ Completed |
+| Day 04 | Loops & Number Problems     | ✅ Completed |
+| Day 05 | Pattern Printing            | ✅ Completed |
+| Day 06 | Pattern Printing (Advanced) | ✅ Completed |
 
 ## 🎯 Goals
 
-- Practice Java consistently every day.
-- Build strong problem-solving skills.
-- Master Data Structures and Algorithms.
-- Improve coding logic through hands-on practice.
-- Prepare for Software Engineering internships and placements.
-- Solve interview-level coding problems.
+* Practice Java consistently every day.
+* Build strong problem-solving skills.
+* Master Data Structures and Algorithms.
+* Improve coding logic through hands-on practice.
+* Prepare for Software Engineering internships and placements.
+* Solve interview-level coding problems.
 
 ## 🛠️ Tech Stack
 
-- Java 17+
-- VS Code / IntelliJ IDEA
-- Git
-- GitHub
+* Java 17+
+* VS Code / IntelliJ IDEA
+* Git
+* GitHub
 
 ## 📂 Repository Structure
 
@@ -61,14 +62,15 @@ DSA_JAVA/
 ├── Day03_ConditionalStatements/
 ├── Day04_Loop/
 ├── Day05_Loop/
+├── Day06_Patterns/
 └── README.md
 ```
 
 ## 📈 Progress
 
-- ✅ 5 Days Completed
-- 🚀 Learning Java & DSA one day at a time.
-- 📌 Repository is updated regularly with new problems and solutions.
+* ✅ 6 Days Completed
+* 🚀 Learning Java & DSA one day at a time.
+* 📌 Repository is updated regularly with new problems and solutions.
 
 ## 🤝 Contributions
 
