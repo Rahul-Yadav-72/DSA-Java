@@ -1,8 +1,6 @@
 # 🚀 DSA in Java
 
-Welcome to my **Data Structures and Algorithms (DSA) in Java** repository.
-
-This repository documents my daily Java programming and DSA practice, where I solve coding problems, implement algorithms, and strengthen problem-solving skills for software engineering interviews and placements.
+Welcome to my **Data Structures and Algorithms (DSA) in Java** repository! This repository documents my daily journey of learning Java, practicing DSA, and solving coding problems to strengthen my problem-solving skills for software engineering interviews and placements.
 
 ---
 
@@ -10,75 +8,112 @@ This repository documents my daily Java programming and DSA practice, where I so
 
 **Rahul Kumar Yadav**
 
-- 🎓 B.Tech Computer Engineering Student
-- 💻 Java Developer | DSA Enthusiast | Problem Solver
-- 🌱 Learning Java, Spring Boot, and Data Structures & Algorithms
-- 🚀 Consistently improving through daily coding practice
+* 🎓 B.Tech Computer Engineering Student
+* 💻 Java Developer | DSA Enthusiast | Problem Solver
+* 🌱 Currently Learning **Java, Spring Boot & Data Structures & Algorithms**
+* 🚀 Consistently improving through daily coding practice
 
-### 🔗 Connect With Me
+### 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/rahul-kumar-yadav-dev/
-- 💻 GitHub: https://github.com/Rahul-Yadav-72
+* 💼 **LinkedIn:** https://www.linkedin.com/in/rahul-kumar-yadav-dev/
+* 💻 **GitHub:** https://github.com/Rahul-Yadav-72
 
 ---
 
-# 📚 Topics Covered
+# 📚 Learning Roadmap
 
-- ✅ Java Basics
-- ✅ Operators
-- ✅ Conditional Statements
-- ✅ Loops
-- ✅ Pattern Printing
-- ✅ Functions & Methods
-- ✅ Arrays
-- 🔜 Strings
-- 🔜 Bit Manipulation
-- 🔜 Recursion
-- 🔜 Sorting Algorithms
-- 🔜 Searching Algorithms
-- 🔜 Object-Oriented Programming (OOP)
-- 🔜 Linked List
-- 🔜 Stack
-- 🔜 Queue
-- 🔜 Trees
-- 🔜 Graphs
-- 🔜 Dynamic Programming
+## ✅ Completed
+
+* Java Basics
+* Operators
+* Conditional Statements
+* Loops
+* Pattern Printing
+* Functions & Methods
+* Arrays
+
+## 🔜 Upcoming
+
+* Strings
+* Bit Manipulation
+* Recursion
+* Sorting Algorithms
+* Searching Algorithms
+* Two-Dimensional Arrays
+* Object-Oriented Programming (OOP)
+* Linked List
+* Stack
+* Queue
+* Trees
+* Graphs
+* Dynamic Programming
 
 ---
 
 # 📅 Daily Progress
 
-| Day | Topic | Status |
-|:---:|-------|:------:|
-| Day 01 | Java Basics | ✅ Completed |
-| Day 02 | Operators | ✅ Completed |
-| Day 03 | Conditional Statements | ✅ Completed |
-| Day 04 | Loops & Number Problems | ✅ Completed |
-| Day 05 | Pattern Printing | ✅ Completed |
-| Day 06 | Advanced Pattern Printing | ✅ Completed |
-| Day 07 | Arrays | ✅ Completed |
+|     Day    | Topics Covered              | Status |
+| :--------: | --------------------------- | :----: |
+| **Day 01** | Java Basics                 |    ✅   |
+| **Day 02** | Operators                   |    ✅   |
+| **Day 03** | Conditional Statements      |    ✅   |
+| **Day 04** | Loops & Number Problems     |    ✅   |
+| **Day 05** | Pattern Printing            |    ✅   |
+| **Day 06** | Advanced Pattern Printing   |    ✅   |
+| **Day 07** | Arrays + LeetCode Problems  |    ✅   |
+| **Day 08** | Arrays & 2D Arrays Practice |    ✅   |
+
+---
+
+# 📝 Problems Solved
+
+## 📅 Day 07 — Arrays
+
+| Question | Problem                                     |
+| -------- | ------------------------------------------- |
+| **Q9**   | Maximum Subarray Sum *(Kadane's Algorithm)* |
+| **Q10**  | Trapping Rain Water                         |
+
+---
+
+## 📅 Day 08 — Arrays & 2D Arrays
+
+| Question | Problem                                 |
+| -------- | --------------------------------------- |
+| **CQ40** | Insert an Element into an Array         |
+| **CQ41** | Search/Check an Element in an Array     |
+| **CQ42** | Delete a Specific Element from an Array |
+| **CQ43** | Reverse an Array                        |
+| **CQ44** | Merge Two Sorted Arrays                 |
+| **CQ45** | Search an Element in a 2D Array         |
+| **CQ46** | Sum & Average of 2D Array Elements      |
+| **CQ47** | Sum of Primary & Secondary Diagonals    |
+| **CQ48** | Additional Array Practice               |
+| **CQ49** | Additional 2D Array Practice            |
+| **CQ50** | Additional Array/Matrix Problem         |
 
 ---
 
 # 🎯 Goals
 
-- ✅ Practice Java consistently every day
-- ✅ Build strong problem-solving skills
-- ✅ Master Data Structures & Algorithms
-- ✅ Improve coding logic through hands-on practice
-- ✅ Prepare for Software Engineering internships and placements
-- ✅ Solve interview-level coding problems
-- ✅ Maintain a consistent GitHub contribution streak
+* ✅ Practice Java every day
+* ✅ Master Data Structures & Algorithms
+* ✅ Improve coding and problem-solving skills
+* ✅ Solve interview-level coding problems
+* ✅ Prepare for Software Engineering Internships & Placements
+* ✅ Build a strong GitHub profile
+* ✅ Maintain a consistent coding streak
 
 ---
 
 # 🛠️ Tech Stack
 
-- Java 17+
-- VS Code
-- IntelliJ IDEA
-- Git
-- GitHub
+| Technology         | Tools                  |
+| ------------------ | ---------------------- |
+| Language           | Java 17+               |
+| IDE                | VS Code, IntelliJ IDEA |
+| Version Control    | Git                    |
+| Repository Hosting | GitHub                 |
 
 ---
 
@@ -90,10 +125,11 @@ DSA_JAVA/
 ├── Day01_JavaBasics/
 ├── Day02_Operators/
 ├── Day03_ConditionalStatements/
-├── Day04_Loop/
-├── Day05_Loop/
-├── Day06_Patterns/
+├── Day04_Loops/
+├── Day05_PatternPrinting/
+├── Day06_AdvancedPatterns/
 ├── Day07_Arrays/
+├── Day08_Arrays/
 │
 ├── README.md
 ├── LICENSE
@@ -102,45 +138,52 @@ DSA_JAVA/
 
 ---
 
-# 📈 Repository Progress
+# 📊 Repository Statistics
 
-| Category | Count |
-|----------|------:|
-| Days Completed | 7 |
-| Java Programs | 50+ |
-| Topics Completed | 7 |
+| Category            |   Progress |
+| ------------------- | ---------: |
+| 📅 Days Completed   |      **8** |
+| 💻 Java Programs    |    **60+** |
+| 📚 Topics Completed |      **8** |
+| 🔥 Coding Streak    | **Active** |
 
-> 📌 Repository is updated regularly with new Java programs, DSA concepts, and coding practice.
+> 📌 This repository is updated regularly with new Java programs, DSA concepts, coding exercises, and interview preparation problems.
 
 ---
 
-# 🚀 Next Topics
+# 🚀 Next Milestones
 
-- Strings
-- Sorting Algorithms
-- Bit Manipulation
-- Two-Dimensional Arrays
-- Object-Oriented Programming (OOP)
-- Recursion
+* ✅ Strings
+* ✅ Sorting Algorithms
+* ✅ Bit Manipulation
+* ✅ Two-Dimensional Arrays
+* ✅ Object-Oriented Programming (OOP)
+* ✅ Recursion
+* ✅ Searching Algorithms
+* ✅ Linked List
 
 ---
 
 # 🤝 Contributions
 
-This repository is primarily for my personal learning journey.
+This repository is primarily created for my personal learning journey.
 
-Suggestions, improvements, and feedback are always welcome.
-
----
-
-## ⭐ Support
-
-If you find this repository helpful, consider giving it a **⭐ Star**.
-
-It motivates me to continue learning and sharing my progress.
+If you have suggestions, improvements, or better approaches, feel free to open an Issue or Pull Request.
 
 ---
 
-<p align="center">
-  <b>Happy Coding! 🚀</b>
-</p>
+# ⭐ Support
+
+If you found this repository helpful, please consider giving it a **⭐ Star**.
+
+Your support motivates me to continue learning and sharing my progress.
+
+---
+
+<div align="center">
+
+### 🚀 Happy Coding! Keep Learning, Keep Growing!
+
+**Made with ❤️ by Rahul Kumar Yadav**
+
+</div>
