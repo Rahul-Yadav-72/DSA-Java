@@ -1,0 +1,33 @@
+// Trapping Rain Water
+
+public class Q10_TrappingRainWater {
+    public static void main(String[] args) {
+        int[] arr = {4,2,0,6,3,2,5};
+        System.out.println(trapWater(arr));
+    }
+    public static int trapWater(int[] height){
+        int n = height.length;
+        int[] left = new int[n];
+        left[0] = height[0];
+        for(int i=1; i<n; i++){
+            left[i] = Math.max(left[i-1],height[i]);
+        }
+
+        int[] right = new int[n];
+        right[n-1] = height[n-1];
+        for (int i=n-2; i>=0; i--){
+            right[i] = Math.max(right[i+1],height[i]);
+        }
+
+        int trapWater = 0;
+        for(int i=0; i<n ; i++){
+            int waterL = Math.min(right[i],left[i]);
+            trapWater += waterL - height[i];
+        }
+        return trapWater;
+    }
+
+    public static int trapwater(int[] height){
+        return 0;
+    }
+}
