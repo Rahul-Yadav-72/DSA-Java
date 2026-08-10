@@ -31,15 +31,15 @@ Welcome to my **Data Structures and Algorithms (DSA) in Java** repository! This 
 * Pattern Printing
 * Functions & Methods
 * Arrays
+* Two-Dimensional Arrays
+* Strings
 
 ## 🔜 Upcoming
 
-* Strings
 * Bit Manipulation
 * Recursion
 * Sorting Algorithms
 * Searching Algorithms
-* Two-Dimensional Arrays
 * Object-Oriented Programming (OOP)
 * Linked List
 * Stack
@@ -62,6 +62,8 @@ Welcome to my **Data Structures and Algorithms (DSA) in Java** repository! This 
 | **Day 06** | Advanced Pattern Printing   |    ✅   |
 | **Day 07** | Arrays + LeetCode Problems  |    ✅   |
 | **Day 08** | Arrays & 2D Arrays Practice |    ✅   |
+| **Day 09** | Two-Dimensional Arrays (Matrices) |    ✅   |
+| **Day 10** | Strings                   |    ✅   |
 
 ---
 
@@ -91,6 +93,36 @@ Welcome to my **Data Structures and Algorithms (DSA) in Java** repository! This 
 | **CQ48** | Additional Array Practice               |
 | **CQ49** | Additional 2D Array Practice            |
 | **CQ50** | Additional Array/Matrix Problem         |
+
+---
+
+## 📅 Day 09 — Two-Dimensional Arrays
+
+| Question | Problem                                     |
+| -------- | ------------------------------------------- |
+| **PQ1**  | Count Number of 7's in a 2D Array           |
+| **PQ2**  | Sum of Elements in the Second Row of a Matrix |
+| **PQ3**  | Find Transpose of a Matrix                  |
+| **Q1**   | Spiral Matrix Traversal                     |
+| **Q2**   | Sum of Primary and Secondary Diagonal Elements |
+| **Q3**   | Search in Row-wise and Column-wise Sorted Matrix |
+
+---
+
+## 📅 Day 10 — Strings
+
+| Question | Problem                                     |
+| -------- | ------------------------------------------- |
+| **PQ1**  | Count Lowercase Vowels in a String          |
+| **PQ2**  | String Practice Problem                     |
+| **PQ3**  | String Practice Problem                     |
+| **PQ4**  | Check Whether Two Strings Are Anagrams      |
+| **Q1**   | Check Whether a String Is Palindrome        |
+| **Q2**   | Find Shortest String                        |
+| **Q3**   | Find and Work with Substrings               |
+| **Q4**   | Find Largest String                         |
+| **Q5**   | Convert String to Uppercase                 |
+| **Q6**   | Compress a String                           |
 
 ---
 
@@ -130,6 +162,8 @@ DSA_JAVA/
 ├── Day06_AdvancedPatterns/
 ├── Day07_Arrays/
 ├── Day08_Arrays/
+├── Day09_2D_Arrays/
+├── Day10_String/
 │
 ├── README.md
 ├── LICENSE
@@ -142,9 +176,9 @@ DSA_JAVA/
 
 | Category            |   Progress |
 | ------------------- | ---------: |
-| 📅 Days Completed   |      **8** |
-| 💻 Java Programs    |    **60+** |
-| 📚 Topics Completed |      **8** |
+| 📅 Days Completed   |      **10** |
+| 💻 Java Programs    |   **120+** |
+| 📚 Topics Completed |      **10** |
 | 🔥 Coding Streak    | **Active** |
 
 > 📌 This repository is updated regularly with new Java programs, DSA concepts, coding exercises, and interview preparation problems.
