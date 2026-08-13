@@ -33,10 +33,10 @@ Welcome to my **Data Structures and Algorithms (DSA) in Java** repository! This 
 * Arrays
 * Two-Dimensional Arrays
 * Strings
+* Bit Manipulation
 
 ## 🔜 Upcoming
 
-* Bit Manipulation
 * Recursion
 * Sorting Algorithms
 * Searching Algorithms
@@ -52,18 +52,19 @@ Welcome to my **Data Structures and Algorithms (DSA) in Java** repository! This 
 
 # 📅 Daily Progress
 
-|     Day    | Topics Covered              | Status |
-| :--------: | --------------------------- | :----: |
-| **Day 01** | Java Basics                 |    ✅   |
-| **Day 02** | Operators                   |    ✅   |
-| **Day 03** | Conditional Statements      |    ✅   |
-| **Day 04** | Loops & Number Problems     |    ✅   |
-| **Day 05** | Pattern Printing            |    ✅   |
-| **Day 06** | Advanced Pattern Printing   |    ✅   |
-| **Day 07** | Arrays + LeetCode Problems  |    ✅   |
-| **Day 08** | Arrays & 2D Arrays Practice |    ✅   |
+|     Day    | Topics Covered                    | Status |
+| :--------: | --------------------------------- | :----: |
+| **Day 01** | Java Basics                       |    ✅   |
+| **Day 02** | Operators                         |    ✅   |
+| **Day 03** | Conditional Statements            |    ✅   |
+| **Day 04** | Loops & Number Problems           |    ✅   |
+| **Day 05** | Pattern Printing                  |    ✅   |
+| **Day 06** | Advanced Pattern Printing         |    ✅   |
+| **Day 07** | Arrays + LeetCode Problems        |    ✅   |
+| **Day 08** | Arrays & 2D Arrays Practice       |    ✅   |
 | **Day 09** | Two-Dimensional Arrays (Matrices) |    ✅   |
-| **Day 10** | Strings                   |    ✅   |
+| **Day 10** | Strings                           |    ✅   |
+| **Day 11** | Bit Manipulation                  |    ✅   |
 
 ---
 
@@ -98,31 +99,54 @@ Welcome to my **Data Structures and Algorithms (DSA) in Java** repository! This 
 
 ## 📅 Day 09 — Two-Dimensional Arrays
 
-| Question | Problem                                     |
-| -------- | ------------------------------------------- |
-| **PQ1**  | Count Number of 7's in a 2D Array           |
-| **PQ2**  | Sum of Elements in the Second Row of a Matrix |
-| **PQ3**  | Find Transpose of a Matrix                  |
-| **Q1**   | Spiral Matrix Traversal                     |
-| **Q2**   | Sum of Primary and Secondary Diagonal Elements |
+| Question | Problem                                          |
+| -------- | ------------------------------------------------ |
+| **PQ1**  | Count Number of 7's in a 2D Array                |
+| **PQ2**  | Sum of Elements in the Second Row of a Matrix    |
+| **PQ3**  | Find Transpose of a Matrix                       |
+| **Q1**   | Spiral Matrix Traversal                          |
+| **Q2**   | Sum of Primary and Secondary Diagonal Elements   |
 | **Q3**   | Search in Row-wise and Column-wise Sorted Matrix |
 
 ---
 
 ## 📅 Day 10 — Strings
 
-| Question | Problem                                     |
-| -------- | ------------------------------------------- |
-| **PQ1**  | Count Lowercase Vowels in a String          |
-| **PQ2**  | String Practice Problem                     |
-| **PQ3**  | String Practice Problem                     |
-| **PQ4**  | Check Whether Two Strings Are Anagrams      |
-| **Q1**   | Check Whether a String Is Palindrome        |
-| **Q2**   | Find Shortest String                        |
-| **Q3**   | Find and Work with Substrings               |
-| **Q4**   | Find Largest String                         |
-| **Q5**   | Convert String to Uppercase                 |
-| **Q6**   | Compress a String                           |
+| Question | Problem                                |
+| -------- | -------------------------------------- |
+| **PQ1**  | Count Lowercase Vowels in a String     |
+| **PQ2**  | String Practice Problem                |
+| **PQ3**  | String Practice Problem                |
+| **PQ4**  | Check Whether Two Strings Are Anagrams |
+| **Q1**   | Check Whether a String Is Palindrome   |
+| **Q2**   | Find Shortest String                   |
+| **Q3**   | Find and Work with Substrings          |
+| **Q4**   | Find Largest String                    |
+| **Q5**   | Convert String to Uppercase            |
+| **Q6**   | Compress a String                      |
+
+---
+
+## 📅 Day 11 — Bit Manipulation
+
+| Question / Program       | Problem                                    |
+| ------------------------ | ------------------------------------------ |
+| **BitOperators**         | Basic Bitwise Operators                    |
+| **Get_ithBit**           | Get the ith Bit                            |
+| **Set_ithBit**           | Set the ith Bit                            |
+| **Clear_itBit**          | Clear the ith Bit                          |
+| **UpdateIthBit**         | Update the ith Bit                         |
+| **ClearLastIthBit**      | Clear Last ith Bits                        |
+| **ClearRangeOfBit**      | Clear Range of Bits                        |
+| **Q1**                   | Check Even or Odd using Bit Manipulation   |
+| **Q2**                   | Check Whether a Number is Power of 2       |
+| **Q3**                   | Count Number of Set Bits                   |
+| **FastExponentiation**   | Fast Exponentiation                        |
+| **ModuloExponentiation** | Modulo Exponentiation                      |
+| **PQ1**                  | Bit Manipulation Practice Problem          |
+| **PQ2**                  | Swap Two Numbers using XOR                 |
+| **PQ3**                  | Add 1 to an Integer using Bit Manipulation |
+| **PQ4**                  | Convert Uppercase Character to Lowercase   |
 
 ---
 
@@ -164,6 +188,7 @@ DSA_JAVA/
 ├── Day08_Arrays/
 ├── Day09_2D_Arrays/
 ├── Day10_String/
+├── Day11_BitManipulation/
 │
 ├── README.md
 ├── LICENSE
@@ -176,9 +201,9 @@ DSA_JAVA/
 
 | Category            |   Progress |
 | ------------------- | ---------: |
-| 📅 Days Completed   |      **10** |
-| 💻 Java Programs    |   **120+** |
-| 📚 Topics Completed |      **10** |
+| 📅 Days Completed   |     **11** |
+| 💻 Java Programs    |   **135+** |
+| 📚 Topics Completed |     **11** |
 | 🔥 Coding Streak    | **Active** |
 
 > 📌 This repository is updated regularly with new Java programs, DSA concepts, coding exercises, and interview preparation problems.
@@ -187,14 +212,25 @@ DSA_JAVA/
 
 # 🚀 Next Milestones
 
-* ✅ Strings
-* ✅ Sorting Algorithms
-* ✅ Bit Manipulation
+* ✅ Java Basics
+* ✅ Operators
+* ✅ Conditional Statements
+* ✅ Loops
+* ✅ Pattern Printing
+* ✅ Advanced Patterns
+* ✅ Arrays
 * ✅ Two-Dimensional Arrays
-* ✅ Object-Oriented Programming (OOP)
-* ✅ Recursion
-* ✅ Searching Algorithms
-* ✅ Linked List
+* ✅ Strings
+* ✅ Bit Manipulation
+* 🔜 Recursion
+* 🔜 Sorting Algorithms
+* 🔜 Searching Algorithms
+* 🔜 Object-Oriented Programming (OOP)
+* 🔜 Linked List
+* 🔜 Stack & Queue
+* 🔜 Trees
+* 🔜 Graphs
+* 🔜 Dynamic Programming
 
 ---
 
